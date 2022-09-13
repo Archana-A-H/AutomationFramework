@@ -15,4 +15,10 @@ public class DemoMvnTest {
 		System.out.println("Engineer 1 Push");
 
 	}
+	@Test
+	public void branchTest()
+	{
+		System.out.println("Branch Tc-01");
+		
+	}
 }
