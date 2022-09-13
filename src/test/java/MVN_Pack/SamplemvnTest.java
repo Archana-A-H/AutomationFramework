@@ -8,5 +8,9 @@ public class SamplemvnTest {
 	{
 		System.out.println("This is a sample mvn class");
 	}
-
+   @Test
+   public void sampleGitTest()
+   {
+	   System.out.println("This is a sample GIT class");
+   }
 }
