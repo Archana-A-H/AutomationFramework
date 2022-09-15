@@ -12,7 +12,7 @@ public class OrgTest {
 	@Test
 	public void modifyOrgTest()
 	{
-		System.out.println("ORGANIZATION MODIFIED");	
+		System.out.println("ORGANIZATION MODIFIED by engineer 2");	
 	}
 	@Test
 	public void deleteOrgTest()
