@@ -6,7 +6,7 @@ public class SamplemvnTest {
 	@Test
 	public void sampleTest()
 	{
-		System.out.println("This is a sample mvn class");
+		System.out.println("This is fifth commit");
 	}
    @Test
    public void sampleGitTest()
