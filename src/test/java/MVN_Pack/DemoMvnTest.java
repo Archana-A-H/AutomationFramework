@@ -13,7 +13,7 @@ public class DemoMvnTest {
 	@Test
 	public void branchTest()
 	{
-		System.out.println("Branch Tc-01");
+		System.out.println("Branch Tc-01 created");
 		
 	}
 }
